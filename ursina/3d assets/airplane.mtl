@@ -1,0 +1,14 @@
+# Blender 4.5.0 MTL File: 'None'
+# www.blender.org
+
+newmtl Material.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Plane.png
+map_Ns WINDOW_Base_color (1).png
+map_refl WINDOW_Base_color (3).png
+map_Bump -bm 1.000000 WINDOW_Base_color (5).png
